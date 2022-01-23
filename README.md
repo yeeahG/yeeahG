@@ -2,5 +2,5 @@
 
 <div align=center>👋 Hi there, I'm Yeji Kim</div>
 
-
 <div align=center> 📖 Learning </div>
+<div align=center> ![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=black) </div>
