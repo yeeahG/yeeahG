@@ -11,8 +11,9 @@
  <img src="https://img.shields.io/badge/javascript-FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/html-FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black">
  <img src="https://img.shields.io/badge/css-FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black">
+ <img src="https://img.shields.io/badge/react-FFFFFF.svg?style=for-the-badge&logo=react&logoColor=black">
  
-### 🌊 m e 
+### 🌊 Me 
  [![Gmail](https://img.shields.io/badge/Gmail-4B8BF5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeji.sep.k@gmail.com)
 
  
