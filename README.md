@@ -13,6 +13,8 @@
  <img src="https://img.shields.io/badge/react-FFFFFF.svg?style=for-the-badge&logo=react&logoColor=black">
  <img src="https://img.shields.io/badge/node.js-FFFFFF.svg?style=for-the-badge&logo=node.js&logoColor=black">
  <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black">
+ <img src="https://img.shields.io/badge/python-FFFFFF.svg?style=for-the-badge&logo=python&logoColor=black">
+ 
  
 ### 🌊 Me 
  [![Gmail](https://img.shields.io/badge/Gmail-4B8BF5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeji.sep.k@gmail.com)
