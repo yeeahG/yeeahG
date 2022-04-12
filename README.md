@@ -17,7 +17,8 @@
  <img src="https://img.shields.io/badge/python-FFFFFF.svg?style=for-the-badge&logo=python&logoColor=black">
  
  
-### 🌊 Me 
+### 🌊 Contact
  [![Gmail](https://img.shields.io/badge/Gmail-4B8BF5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeji.sep.k@gmail.com)
 
  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=3498DB&height=220&section=footer)
