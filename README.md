@@ -19,7 +19,7 @@
  
  
 ### 🌊 Contact
- [![Gmail](https://img.shields.io/badge/Gmail-4B8BF5.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeji.sep.k@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-CED46A.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeji.sep.k@gmail.com)
 
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3498DB&height=220&section=footer)
