@@ -7,15 +7,16 @@
 <div align=center><h2>📖 Stack </h2></div>
 
 <div align=center> 
- <img src="https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=black"> 
- <img src="https://img.shields.io/badge/javascript-FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=black">
+ <img src="https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=black">
+ <img src="https://img.shields.io/badge/python-FFFFFF.svg?style=for-the-badge&logo=python&logoColor=black">
+ <img src="https://img.shields.io/badge/javascript-FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=black"><br />
  <img src="https://img.shields.io/badge/html-FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black">
  <img src="https://img.shields.io/badge/css-FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black">
  <img src="https://img.shields.io/badge/react-FFFFFF.svg?style=for-the-badge&logo=react&logoColor=black">
- <img src="https://img.shields.io/badge/node.js-FFFFFF.svg?style=for-the-badge&logo=node.js&logoColor=black">
-  <img src="https://img.shields.io/badge/spring-FFFFFF.svg?style=for-the-badge&logo=spring&logoColor=black">
+ <img src="https://img.shields.io/badge/node.js-FFFFFF.svg?style=for-the-badge&logo=node.js&logoColor=black"><br />
+ <img src="https://img.shields.io/badge/spring-FFFFFF.svg?style=for-the-badge&logo=spring&logoColor=black">
  <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black">
- <img src="https://img.shields.io/badge/python-FFFFFF.svg?style=for-the-badge&logo=python&logoColor=black">
+
  
  
 ### 🌊 Contact
