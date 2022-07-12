@@ -19,20 +19,23 @@
  <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black">
 
  
- # 잔디
-<!-- BackJoon Tier -->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sep0909&theme=warm)
+<div align=center><h2>
 
-
-# BackJoon Tier
-<!-- BOX -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sep0909)](https://solved.ac/sep0909)
-
+✍️ 
 <!-- MINI -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sep0909)](https://solved.ac/sep0909)
 
+ </h2></div>
+
+
+<div>
+
+<!-- BackJoon Tier -->
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sep0909&theme=cold)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sep0909)](https://solved.ac/sep0909)
+
+</div>
 
  
 ### 🌊 Contact
