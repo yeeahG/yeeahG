@@ -19,9 +19,27 @@
  <img src="https://img.shields.io/badge/mysql-FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black">
 
  
+ # 잔디
+<!-- BackJoon Tier -->
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sep0909&theme=warm)
+
+
+# BackJoon Tier
+<!-- BOX -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sep0909)](https://solved.ac/sep0909)
+
+<!-- MINI -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sep0909)](https://solved.ac/sep0909)
+
+
  
 ### 🌊 Contact
  [![Gmail](https://img.shields.io/badge/Gmail-CED46A.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yeji.sep.k@gmail.com)
+ 
+ 
+ 
 
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3498DB&height=220&section=footer)
