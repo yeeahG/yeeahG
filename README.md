@@ -2,9 +2,8 @@
 
 <div align=center><h2>👋 Hi there, I'm Yeji Kim</h2>
 <div align=center>
-<img src="https://img.shields.io/badge/Front%20End%20Developer-FFFFFF.svg?style=for-the-badge&logoColor=black"> <br>
-<img src="https://img.shields.io/badge/Playdata%20Boot%20Camp-FFFFFF.svg?style=for-the-badge&logoColor=black"> <br>
-<img src="https://img.shields.io/badge/Port%20Folio-FFFFFF.svg?style=for-the-badge&logoColor=black"> <br>
+<img src="https://img.shields.io/badge/Front%20End%20Developer-FFFFFF.svg?style=for-the-badge&logoColor=black"><br>
+<img src="https://img.shields.io/badge/Playdata%20Boot%20Camp-FFFFFF.svg?style=for-the-badge&logoColor=black">
 
 [![Final Project](https://img.shields.io/badge/Final%20Project-559df2.svg?style=for-the-badge&logoColor=black)](https://github.com/yeeahG/Project_ToMyAnimal.git)
 
@@ -34,14 +33,14 @@
 <br>
 <br>
  
-<div align=center><h2></h2>
- 
-![yeeahG's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeahG&show_icons=true)
 
 ✍️ 
 <!-- MINI -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sep0909)](https://solved.ac/sep0909)
+
+![yeeahG's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeahG&show_icons=true)
+
 
  </h2></div>
 
