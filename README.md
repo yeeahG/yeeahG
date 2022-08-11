@@ -35,10 +35,6 @@
  
 
 ✍️ 
-<!-- MINI -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sep0909)](https://solved.ac/sep0909)
-
 ![yeeahG's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeahG&show_icons=true)
 
 
